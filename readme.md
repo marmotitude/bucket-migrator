@@ -22,7 +22,7 @@ Antes de executar o script, você precisará ajustar as seguintes variáveis:
 ## Como Usar
 Edite as Variáveis: Altere as variáveis profile1, profile2, prefix e bucket_list no início do script para corresponder aos seus perfis e buckets específicos.
 
-Execute o Script: Depois de fazer as alterações necessárias, execute o script com Python:
+Depois de realizar as alterações necessárias, execute o script com Python:
 
 ```sh
 python rclone-migrate.py
